@@ -1,0 +1,69 @@
+MOVIE DUX:
+
+moviedux project repo:
+https://github.com/JannickLeismann/react-moviedux
+
+VS extensions:
+ESLint - shows errors while typing
+Prettier - code formatter
+
+setting toggle:
+file > pref > settings > search and tick 'format on save'
+
+--------------------
+
+create react app (in powershell - dont use bash :P)
+(check dependencies in vid 7)
+npx create-react-app [name of app]
+
+to update dependencies:
+- Delete node modules folder
+- Delete package.lock.json folder
+- then cd to project folder 
+- then in NEW powershell terminal:
+npm install
+- fix vulnerability issues if necessary
+
+-------------------
+
+start react app in local server:
+npm start
+
+-------------------
+
+to assign styling to a tg:
+use className= NOT class=
+
+----------------
+
+react developer tools browser extension
+
+open dev tools:
+ctrl shift j
+
+---------------
+
+Install router ++++++++
+
+install node package (note the specific version number - used to align with tutorial):
+npm i react-router-dom@6.22.3
+
+
+
+========================================================================================================
+
+BUG BLASTER:
+
+bug blaster project repo:
+https://github.com/JannickLeismann/react-bug-blaster
+
+
+create react app (in powershell - dont use bash :P)
+(check dependencies in vid 7)
+npx create-react-app [name of app]
+
+Open dev console:
+ctrl + shift + J
+
+
+
